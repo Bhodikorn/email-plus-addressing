@@ -9,7 +9,7 @@
 4. The system accepted the modified email and sent a confirmation email.
 5. Upon verifying the email, we successfully gained access to the trial.
 6. Using the provided credentials, we logged into the web application and downloaded the trial license key.
-We tested the key and confirmed that it unlocked the full pro version of the software.
+7. We tested the key and confirmed that it unlocked the full pro version of the software.
 
 
 
